@@ -11,9 +11,7 @@
 #  by adding loops!
 
 # Loops allow us to perform some action repeatedly – such as placing an order 
-# for multiple drinks – without needing to write an excess amount of code. 
-# You’ll be doing this here! Write all your code in the file called script.py 
-# and run it by entering python3 script.py in the terminal.
+# for multiple drinks – without needing to write an excess amount of code.
 
 # Let’s get started!
 
